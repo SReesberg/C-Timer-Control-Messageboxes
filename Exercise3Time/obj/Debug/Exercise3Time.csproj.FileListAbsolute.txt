@@ -1,0 +1,10 @@
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\bin\Debug\Exercise3Time.exe.config
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\bin\Debug\Exercise3Time.exe
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\bin\Debug\Exercise3Time.pdb
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\obj\Debug\Exercise3Time.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\obj\Debug\Exercise3Time.MainForm.resources
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\obj\Debug\Exercise3Time.Properties.Resources.resources
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\obj\Debug\Exercise3Time.csproj.GenerateResource.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\obj\Debug\Exercise3Time.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\obj\Debug\Exercise3Time.exe
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise3Time\obj\Debug\Exercise3Time.pdb
